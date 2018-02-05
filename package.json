@@ -1,0 +1,8 @@
+{
+  "name": "{{??PACKAGE_NAME??}}",
+  "version": "{{??PACKAGE_VERSION=0.1.0??}}",
+  "main": "index.js",
+  "repository": "git@github.com:{{??GITHUB_ORG_OR_USER??}}/{{??PACKAGE_NAME??}}.git",
+  "author": "{{??AUTHOR_FULLNAME??}} <{{??AUTHOR_EMAIL??}}>",
+  "license": "MIT"
+}
